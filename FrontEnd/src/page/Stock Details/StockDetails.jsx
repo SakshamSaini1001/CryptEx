@@ -12,7 +12,7 @@ import {
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "@/components/ui/Dialog.jsx";
+} from "@/components/ui/dialog.jsx";
 import { BuyForm } from "./BuyForm";
 import { SellForm } from "./SellForm";
 import StockChart from "../Home/StockChart";

@@ -11,7 +11,7 @@ import {
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "@/components/ui/Dialog.jsx";
+} from "@/components/ui/dialog.jsx";
 import { Button } from "@/components/ui/button";
 import PaymentDetailsForm from "@/page/Payment Details/PaymentDetailsForm"; // Correct import if default export
 import { useEffect } from "react";

@@ -26,7 +26,7 @@ import {
   DialogFooter,
   DialogTitle,
   DialogDescription,
-} from "@/components/ui/Dialog";
+} from "@/components/ui/dialog";
 import TopUpForm from "./TopUpForm";
 import WithdrawalForm from "./WithdrawalForm";
 import TransferForm from "./TransferForm";
